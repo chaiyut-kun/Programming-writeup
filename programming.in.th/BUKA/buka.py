@@ -1,25 +1,11 @@
-print()
-# base = (input())
-# operator = input()
-# operand = f"{base}{operator}{input()}"
-# result = eval(operand)
-# print(result)
-
-
-
-
 print(eval(f"{input()}{input()}{input()}"))
 
+""" 
+    input แรก user จะป้อนตัวเลขแรกเข้ามา
+    input สอง user จะป้อนตัวดำเนินการเข้ามา
+    input สาม user จะป้อนตัวเลขสองเข้ามา
 
+     ผลลัพธ์คือ eval จะทำการตีความทั้งตัวเลขและตัวดำเนินการ
+     และแสดงผลออกมาเป็นผลลัพธ์เช่น 1 + 2 = 3
 
-
-
-
-# x = 10
-
-# y = "H + 10"
-# print(eval(y))
-
-
-
-
+"""
