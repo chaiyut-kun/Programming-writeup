@@ -11,3 +11,11 @@ elif prototype  == lower:
     print("All Small Letter")
 else:
     print("Mix")
+
+
+""" 
+
+    หากทุกข้อความเป็น ตัวพิมพ์ใหญ่ก็จะแสดง All Capital Letter
+    หากทุกข้อความเป็น ตัวพิมพ์เล็กจะแสดง   All Small Letter
+
+"""
