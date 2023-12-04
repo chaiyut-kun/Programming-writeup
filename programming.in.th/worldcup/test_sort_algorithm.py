@@ -33,4 +33,3 @@ for main in range(len(list)):
             
 
 print(list)
-
