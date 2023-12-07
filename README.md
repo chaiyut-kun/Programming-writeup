@@ -1,1 +1,1 @@
-"# this is write up for programming.in.th" 
+"# this is write up for Programming problem solving" 
